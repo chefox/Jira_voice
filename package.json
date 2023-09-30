@@ -1,0 +1,16 @@
+{
+  "name": "google_assistant_link_opener",
+  "version": "1.0.0",
+  "description": "Пример кода для открытия ссылок с помощью Google Assistant API",
+  "main": "index.js",
+  "dependencies": {
+    "actions-on-google": "^4.1.5",
+    "express": "^4.17.1",
+    "open": "^8.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ваше имя",
+  "license": "MIT"
+}
